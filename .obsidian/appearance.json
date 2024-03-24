@@ -1,0 +1,12 @@
+{
+  "accentColor": "#8b6cef",
+  "theme": "system",
+  "textFontFamily": "霞鹜文楷",
+  "monospaceFontFamily": "Comic Sans MS",
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "style_yayi"
+  ]
+}
